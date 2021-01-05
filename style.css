@@ -1,26 +1,26 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-
-h1{
-    font-size: 80px;
+h1, h2{
+    font-size: 60px;
     text-transform: uppercase;
 }
-
-.first-head{
-    color: #363958;
-}
-.color{
-    color: #FF8367;
-}
-.left-side{
-    margin-top: 50px;
-    width: 50%;
+.half-part{
+    width: 40%;
     float: left;
-    margin-left: 80px;
+    margin-left: 7%;
+    padding-left: 2%;
 }
-img{
-    margin-top: 40px;
-    width: 500px;
-    float: right;
+.half-part img{
+    width: 100%;
+}
+section{
+    height: 500px;
+}
+.btn{
+    text-decoration: none;
+    background-color:tomato ;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
 }
