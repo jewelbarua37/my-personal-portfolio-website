@@ -1,3 +1,26 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
+
+h1{
+    font-size: 80px;
+    text-transform: uppercase;
+}
+
+.first-head{
+    color: #363958;
+}
+.color{
+    color: #FF8367;
+}
+.left-side{
+    margin-top: 50px;
+    width: 50%;
+    float: left;
+    margin-left: 80px;
+}
+img{
+    margin-top: 40px;
+    width: 500px;
+    float: right;
+}
